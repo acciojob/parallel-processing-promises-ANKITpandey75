@@ -5,15 +5,13 @@ body {
 }
 
 #loading {
-  font-size: 20px;
+  margin: 15px;
   color: blue;
-  margin-bottom: 15px;
 }
 
 #error {
+  margin: 15px;
   color: red;
-  font-size: 18px;
-  margin-bottom: 15px;
 }
 
 #output {
@@ -26,7 +24,4 @@ body {
 #output img {
   width: 200px;
   height: 300px;
-  object-fit: cover;
-  border: 2px solid #333;
-  border-radius: 8px;
-}/*  your css code here. If applicable */
+}
